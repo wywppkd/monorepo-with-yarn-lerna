@@ -1,5 +1,6 @@
 {
   "name": "@wywppkd/fr-genernator",
+  "private": false,
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Bran <1055025755@qq.com>",
@@ -19,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "88e26af045c216f0d0a3de08321495aeafe09687"
+  "gitHead": "00b210c87ab9ff3fd2ad8a73c72f0a5565e921b4"
 }
