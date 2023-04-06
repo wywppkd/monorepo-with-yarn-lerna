@@ -1,7 +1,7 @@
 {
   "name": "@wywppkd/fr-genernator",
   "private": true,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "> TODO: Fake Package 测试",
   "author": "Bran <1055025755@qq.com>",
   "homepage": "",
@@ -23,6 +23,6 @@
   },
   "gitHead": "d57fefac0f79a6293e479b69ca6eafc97151fab6",
   "dependencies": {
-    "@wywppkd/form-render": "^1.0.5"
+    "@wywppkd/form-render": "^1.0.6"
   }
 }
