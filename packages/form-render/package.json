@@ -1,8 +1,8 @@
 {
   "name": "@wywppkd/form-render",
-  "private": false,
+  "private": true,
   "version": "1.0.1",
-  "description": "> TODO: description",
+  "description": "> TODO: Fake Package",
   "author": "Bran <1055025755@qq.com>",
   "homepage": "",
   "license": "ISC",
